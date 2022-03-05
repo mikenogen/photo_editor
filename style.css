@@ -1,0 +1,22 @@
+#sidePanel,
+#img {
+  /* puts the side panel and image side by side */
+  display: inline-block;
+
+  /* makes the side panel and image aligned at the top */
+  vertical-align: top;
+}
+
+#sidePanel {
+  /* puts empty space to the right of the side panel to separate it from the image */
+  margin-right: 30px;
+
+  /* puts empty space below the side panel to separate it from the image */
+  margin-bottom: 30px;
+}
+
+#widthParagraph,
+#opacityParagraph {
+  /* puts empty space below the paragraphs */
+  margin-bottom: 30px;
+}
